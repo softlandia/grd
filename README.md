@@ -1,6 +1,6 @@
 # grd - command line tools for convert geology data
 
-(с) softlandia@gmail.com / sergienko vitaly  
+(СЃ) softlandia@gmail.com / sergienko vitaly  
 v 0.0.1 05/29/2019
 freeware https://github.com/softlandia/grd
 
@@ -10,25 +10,25 @@ grd convert geology data (from/to):
 2. points
 3. surfaces
 
-## Using/Использование
+## Using/В»СЃРїРѕР»СЊР·РѕРІР°РЅРёРµ
 
 >grd "d:\data\N1ch.txt" from to
 
-where/где
+where/РіРґРµ
 
-- "d:\data\N1ch.txt" - input file / входной файл
-- from	- input format / формат входного файла
-- to	- output format / формат выходного файла
+- "d:\data\N1ch.txt" - input file / РІС…РѕРґРЅРѕР№ С„Р°Р№Р»
+- from	- input format / С„РѕСЂРјР°С‚ РІС…РѕРґРЅРѕРіРѕ С„Р°Р№Р»Р°
+- to	- output format / С„РѕСЂРјР°С‚ РІС‹С…РѕРґРЅРѕРіРѕ С„Р°Р№Р»Р°
 
-formats/поддерживаемые форматы:  
+formats/РїРѕРґРґРµСЂР¶РёРІР°РµРјС‹Рµ С„РѕСЂРјР°С‚С‹:  
 aIndexedLines		-  
 aParameterizedLines	- 
 
-## Функции
+## вЂСѓРЅРєС†РёРё
 
-1. конвертация кодовой страницы из CP866 в WIN1251
-2. сбор сведений о содержащихся в LAS файлах мнемониках каротажей
-3. конвертация LAS файлов с переименованием мнемоник по словарю
+1. РєРѕРЅРІРµСЂС‚Р°С†РёВ¤ РєРѕРґРѕРІРѕР№ СЃС‚СЂР°РЅРёС†С‹ РёР· CP866 РІ WIN1251
+2. СЃР±РѕСЂ СЃРІРµРґРµРЅРёР№ Рѕ СЃРѕРґРµСЂР¶Р°С‰РёС…СЃВ¤ РІ LAS С„Р°Р№Р»Р°С… РјРЅРµРјРѕРЅРёРєР°С… РєР°СЂРѕС‚Р°Р¶РµР№
+3. РєРѕРЅРІРµСЂС‚Р°С†РёВ¤ LAS С„Р°Р№Р»РѕРІ СЃ РїРµСЂРµРёРјРµРЅРѕРІР°РЅРёРµРј РјРЅРµРјРѕРЅРёРє РїРѕ СЃР»РѕРІР°СЂСЋ
 
 
 
